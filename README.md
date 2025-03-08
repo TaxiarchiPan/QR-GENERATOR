@@ -1,7 +1,14 @@
-# QR-GENERATOR
-Text or URL to QR code
+# 🔳 QR Code Generator  
 
-A basic QR code generator using HTML, CSS and a bit of JAVASCRIPT
+Turn any text or link into a scannable QR code in seconds! 🎉  
 
-This site accepts text type user input (text and URL addresses)
-and transforms it into a scannable QR code !!
+## 🎯 What’s This?  
+Ever wanted to share a link **without typing**? Say hello to this QR Code Generator! Just type, click, and BOOM – instant QR magic.  
+
+## ✨ Features  
+✅ **Instant QR Generation** – No waiting, just scanning!  
+  
+
+
+
+
