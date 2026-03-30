@@ -8,7 +8,8 @@ Ever wanted to share a link **without typing**? Say hello to this QR Code Genera
 ## ✨ Features  
 ✅ **Instant QR Generation** – No waiting, just scanning!  
   
-
+## 🚀 View My Resume  
+📌 [Live App Here](https://genaratorqr.netlify.app/)  
 
 
 
